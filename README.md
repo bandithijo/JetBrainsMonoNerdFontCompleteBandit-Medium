@@ -1,0 +1,38 @@
+# JetBrainsMono Nerd Font Bandit - Medium
+
+This is a JetBrainsMono Nerd Font Medium with some modification on:
+
+1. Align ligature for triple asterisks `***` to same level between each of them
+2. Zero `0` not using "dotted zero", but using "slashed zero"
+
+![sample.png](sample/sample.png)
+
+## Usage
+
+**Family Font Name**
+
+```
+JetBrainsMono Nerd Font Bandit
+```
+
+**Available Style**
+
+```
+Medium, Regular
+```
+
+**Example on Simple Terminal**
+
+```
+JetBrainsMono Nerd Font Bandit:style=Medium,Regular:pixelsize=10
+```
+
+## Original Project
+
+[**JetBrains/JetBrainsMono**](https://github.com/JetBrains/JetBrainsMono)
+
+## License
+
+JetBrains Mono typeface is available under the [OFL-1.1](OFL.txt) License and can be used free of charge, for both commercial and non-commercial purposes. You do not need to give credit to JetBrains, although we will appreciate it very much if you do.
+
+The source code is available under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) License
