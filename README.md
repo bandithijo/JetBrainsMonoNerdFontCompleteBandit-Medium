@@ -4,6 +4,7 @@ This is a JetBrainsMono Nerd Font Medium with some modification on:
 
 1. Align ligature for triple asterisks `***` to same level between each of them
 2. Zero `0` not using "dotted zero", but using "slashed zero"
+3. Add Neovim logo on `U+E630`
 
 ![sample.png](sample/sample.png)
 
