@@ -6,6 +6,7 @@ This is a JetBrainsMono Nerd Font Medium with some modification on:
 2. Zero `0` not using "dotted zero", but using "back slashed zero"
 3. Add Neovim logo on `U+E630`
 4. Add Artix logo on `U+E631`
+5. Add DWM logo on `U+E62F`
 
 ![sample.png](sample/sample.png)
 
