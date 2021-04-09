@@ -10,6 +10,14 @@ This is a JetBrainsMono Nerd Font Medium with some modification on:
 
 ![sample.png](sample/sample.png)
 
+## Install
+
+Just copy the **JetBrainsMonoNerdFontCompleteBandit-Medium.ttf* your **/usr/share/fonts/**, then update font cache with,
+
+```shell
+$ sudo fc-cache -vf
+```
+
 ## Usage
 
 **Family Font Name**
