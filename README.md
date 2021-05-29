@@ -8,7 +8,7 @@ This is a JetBrainsMono Nerd Font Medium with some modification on:
 4. Add Artix logo on `U+E631`
 5. Add DWM logo on `U+E62F`
 
-![sample.png](sample/sample.png)
+![screenshot.png](.screenshot/sample.png)
 
 ## Install
 
